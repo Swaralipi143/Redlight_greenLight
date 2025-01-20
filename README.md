@@ -10,4 +10,4 @@ This project allowed me to dive deep into 3D rendering, animations, and game log
 
 Working on this project has been a fantastic journey, helping me improve my skills in JavaScript, 3D graphics, and performance optimization. 🚀
 
-[🔗Play Red Light Green Light](https://www.mygame.com](https://swaralipi143.github.io/Redlight_greenLight/))
+[🔗Play Red Light Green Light](https://swaralipi143.github.io/Redlight_greenLight/)
