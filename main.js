@@ -34,7 +34,7 @@ function delay(ms){
 class Doll{
     constructor(){
         const loader1 = new THREE.GLTFLoader();
-        loader1.load("../model/scene.gltf", (gltf)=> {
+        loader1.load("model/scene.gltf", (gltf)=> {
             scene.add(gltf.scene);
             gltf.scene.scale.set(.2,.35,.2);
             gltf.scene.position.set(-9,-0.5,0);
@@ -93,7 +93,7 @@ init()
 class Player{
     constructor(){
         const loader = new THREE.GLTFLoader();
-        loader.load("../player/scene.gltf",gltf=> {
+        loader.load("player/scene.gltf",gltf=> {
             scene.add(gltf.scene);
             gltf.scene.scale.set(1,2.5,2);
             gltf.scene.position.x=13.5;
