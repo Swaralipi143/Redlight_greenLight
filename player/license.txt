@@ -1,0 +1,11 @@
+Model Information:
+* title:	squid game player rig version
+* source:	https://sketchfab.com/3d-models/squid-game-player-rig-version-26cac5b561fa4f5db58c308e12b3f281
+* author:	Luxor (https://sketchfab.com/ricardoatorres2016)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "squid game player rig version" (https://sketchfab.com/3d-models/squid-game-player-rig-version-26cac5b561fa4f5db58c308e12b3f281) by Luxor (https://sketchfab.com/ricardoatorres2016) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

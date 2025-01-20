@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background: url(bg.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.text{
+    position:fixed;
+    font-size:40px;
+    font-weight: bold;
+    left: 50%;
+    top: 10px;
+    text-shadow: 0 2px 5px rgba(0,0,0,0.5);
+    transform:translateX(-50%);
+    background: none;
+}
