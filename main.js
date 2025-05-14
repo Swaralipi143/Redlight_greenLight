@@ -66,12 +66,16 @@ let doll=new Doll();
 async function init(){
     await delay(700);
     text.innerText="Starting 3"
+    text.innerText="Hold the up button to move"
     await delay(700);
     text.innerText="Starting 2"
+    text.innerText="Hold the up button to move"
     await delay(700);
     text.innerText="Starting 1"
+    text.innerText="Hold the up button to move"
     await delay(700);
     text.innerText="GO!!"
+    text.innerText="Hold the up button to move"
     startGame();
 }
 
